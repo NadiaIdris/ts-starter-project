@@ -1,5 +1,5 @@
 {
-  "name": "ts-find-url",
+  "name": "ts-starter-project",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
